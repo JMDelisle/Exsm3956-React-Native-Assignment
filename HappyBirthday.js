@@ -1,0 +1,1 @@
+npx expo install @react-native-community/datetimepicker@6.2.0
