@@ -25,6 +25,7 @@
     "react-dom": "^18.0.0",
     "react-native": "^0.69.6",
     "react-native-calendar-picker": "^7.1.2",
+    "react-native-countdown-component": "^2.7.1",
     "react-native-datepicker": "^1.7.2",
     "react-native-modal": "^13.0.1",
     "react-native-modern-datepicker": "^1.0.0-beta.91",
